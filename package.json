@@ -1,0 +1,1 @@
+{"name":"katalog-ac-online","version":"2.0.0","private":true,"scripts":{"start":"node scripts/preview.cjs","build":"node scripts/check.cjs","test":"node --test test/core.test.cjs"},"engines":{"node":">=22"}}
